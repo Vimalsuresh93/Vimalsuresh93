@@ -1,16 +1,14 @@
+![Vimal SURESH's GitHub Banner]((./assets/terminal.png))]
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vimal-suresh-b293b21b1/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/VimalSuresh11)
 ### Hi there 👋
 
-<!--
-**Vimalsuresh93/Vimalsuresh93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Very Passionate About Blockchain Technologies.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a decentralized NFT market place for real-estate.
+- 🌱 I’m currently learning Polkadot substrate.
+- 👯 I’m looking to collaborate on Opensource Blockchain Projects
+- 🤔 I’m looking for Opportunities on Blockchain.
+- 💬 Ask me about Ethereum/Hyperledger Nft's,ERC Tokens
+- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vimal-suresh-b293b21b1/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
