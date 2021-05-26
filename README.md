@@ -17,7 +17,17 @@ I'm Very Passionate About Blockchain Technologies.
 ![](https://img.shields.io/badge/Code-ETHEREUM-informational?style=flat&logo=react&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/Code-Hyperledger-informational?style=flat&logo=angular&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=ionic&logoColor=white&color=f3b745)
-![](https://img.shields.io/badge/Code-Reactt-informational?style=flat&logo=JavaScript&logoColor=white&color=f3b745)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=JavaScript&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=TypeScript&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/Code-MongoDB?style=flat&logo=Java&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/Code-Truffle-informational?style=flat&logo=MongoDB&logoColor=white&color=f3b745)
+
+## 📈 GitHub Stats
+
+<a href="https://github.com/Vimalsuresh93">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vimalsuresh93&hide=html,css&title_color=f3b745&text_color=fff&icon_color=f3b745&bg_color=14171A" />
+</a>
+
+<a href="https://github.com/Vimalsuresh93">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Vimalsuresh93&show_icons=true&line_height=27&count_private=true&title_color=f3b745&text_color=fff&icon_color=fff&bg_color=14171A" alt="Vimal Suresh's GitHub Stats" />
+</a>
