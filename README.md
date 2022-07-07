@@ -6,7 +6,7 @@
 I Write Code for Web3.
 
 - 🔭 I’m currently working @ Router Protocol & Dfyn.
-- 🌱 I Work On Defi Project.
+- 🌱 I Work On Defi Projects.
 - 👯 I’m looking to collaborate on Opensource Blockchain Projects
 - 🤔 I’m looking for Opportunities on Blockchain.
 - 💬 Ask me about Ethereum/Hyperledger Nft's,ERC Tokens
