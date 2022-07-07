@@ -4,10 +4,10 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/VimalSuresh11)
 ### Hi there 👋
 
-I'm Very Passionate About Blockchain Technologies.
+I Write Code for Web3.
 
-- 🔭 I’m currently working on a decentralized NFT market place for real-estate.
-- 🌱 I’m currently learning Polkadot substrate.
+- 🔭 I’m currently working @ Router Protocol & Dfyn.
+- 🌱 I Work On Defi Project.
 - 👯 I’m looking to collaborate on Opensource Blockchain Projects
 - 🤔 I’m looking for Opportunities on Blockchain.
 - 💬 Ask me about Ethereum/Hyperledger Nft's,ERC Tokens
