@@ -5,10 +5,10 @@
 
 I Write Code for Web3.
 
-- 🔭 I’m currently working @ Router Protocol & Dfyn.
-- 🌱 I Work On Defi Projects.
-- 👯 I’m looking to collaborate on Opensource Blockchain Projects
-- 🤔 I’m looking for Opportunities on Blockchain.
+- 🔭 currently working @ Router Protocol & Dfyn.
+- 🌱 Works On Defi Projects.
+- 👯 looking to collaborate on Opensource Blockchain Projects
+- 🤔 looking for Opportunities on Blockchain.
 - 💬 Ask me about Ethereum/Hyperledger Nft's,ERC Tokens
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vimal-suresh-b293b21b1/)
 
